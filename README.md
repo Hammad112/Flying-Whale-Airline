@@ -3,6 +3,13 @@
 Welcome to Flying Whale's Power BI Visualization Case Study! Today, we'll weave magic, turning raw data into captivating Power BI Visualizations. Let's soar!
 
 
+## Dashboard
+
+![flying1](https://github.com/Hammad112/Flying-Whale-Airline-Case-Study/assets/95902997/0ef83d0e-4b0d-40c9-b13d-2732aa824b96)
+![flying2](https://github.com/Hammad112/Flying-Whale-Airline-Case-Study/assets/95902997/c0672deb-058e-4a35-94e7-acc3f72a577c)
+
+
+
 ## Why Power BI?
 Power BI isn't just a tool—it's a game-changer. With its intuitive interface, robust features, and seamless integration capabilities, Power BI empowers you to explore data in ways you never thought possible. Whether you're a beginner or a seasoned pro, this assignment will equip you with the skills and confidence to unleash your creativity and make data come to life.
 
